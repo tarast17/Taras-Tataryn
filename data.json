@@ -161,31 +161,32 @@
   }, {
     "id": 4,
     "key": "wo4",
-    "companyName": "Test",
-    "companyUrl": "https://www.knowlarity.com/",
-    "role": "Software Engineer Intern",
-    "location": "Gurgaon, India",
-    "timeline": "06/2018 - 08/2018",
+    "companyName": "Optum Rotation 1",
+    "companyUrl": "https://www.optum.com/",
+    "role": "Security Analyst",
+    "location": "Plymouth, Minnesota",
+    "timeline": "06/2018 - 12/2018",
     "tag": [
-      "JavaScript/TypeScript",
-      "Angular/Ionic",
-      "Python/Django",
-      "Cloud Telephony"
+      "Python",
+      "Javascript",
+      "Threat Research",
+      "Security Awareness",
+      "Phishing"
     ],
     "about": "Worked on optimizing the current app, decrease O(n) to O(1) by making asynchronous functions, upgraded from angularJs to angular 5, wrote module to debug the app."
   }, {
     "id": 3,
     "key": "wo3",
-    "companyName": "Cashfog",
-    "companyUrl": "https://github.com/ramantehlan/Cashfog",
-    "role": "Founder & CEO",
-    "location": "Delhi, India",
-    "timeline": "10/2016 - 09/2017",
+    "companyName": "DePauw University",
+    "companyUrl": "https://depauw.edu",
+    "role": "Security Research Intern",
+    "location": "Greencastle, Indiana",
+    "timeline": "09/2016 - 03/2017",
     "tag": [
-      "10+ First Month Business Users",
-      "Accounting",
-      "Transactions",
-      "Data Visualization"
+      "PERL",
+      "Twitter API",
+      "Security Research",
+      "Social Media Phishing"
     ],
     "about": "An easy and smart service to maintain business transactions and documents online with analytics tools which provide more clear vision on cash flow. <ul> <li>Worked on powerful analytics tools to visualize all the business data.</li><li>Drag and drop document upload for all the important documents and files.</li><li>Beautiful UI/UX, with different modes for day and night.</li></ul>"
   }, {
