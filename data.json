@@ -94,10 +94,10 @@
     "signature": "Regards <br> <b>Raman Tehlan</b>"
   },
   "profile": {
-    "name": "Raman Tehlan",
+    "name": "Taras Tataryn",
     "image": "https://drive.google.com/uc?export=view&id=1qlBcPkxg9usJxJaMZe2y5YYyhGBu6tEh",
-    "domains": "Engineer | Developer | Designer",
-    "vision": "FOSS enthusiast, Just show me the code, love to attend hackathons and startup weekends, Fan of GNU/Linux, UI/UX and good Engineering, Also a visionary.",
+    "domains": "Cybersecurity Analyst | Triathlete | Sports enthusiast",
+    "vision": "Passionate in Cyber Security, threat intelligence, and automation to improve security platforms. ",
     "url": "https://ramantehlan.github.io",
     "address": {
         "@type": "PostalAddress",
@@ -107,18 +107,18 @@
         "postalCode": "110075",
         "addressCountry": "India"
     },
-    "email": "mailto:ramantehlan@gmail.com",
-    "alumniOf": "SRM University",
-    "birthPlace": "New Delhi, India",
-    "birthDate": "1998.05.20",
-    "height": "177cm",
+    "email": "mailto:tarastataryn.city@gmail.com",
+    "alumniOf": "DePauw University",
+    "birthPlace": "DC",
+    "birthDate": "1995.09.17",
+    "height": "175cm",
     "weight": "72kg",
     "gender": "male",
     "nationality": "",
     "sameAs":[
-      "https://www.linkedin.com/in/ramantehlan/",
+      "https://www.linkedin.com/in/tarastataryn/",
       "https://twitter.com/ramantehlan",
-      "https://github.com/ramantehlan",
+      "https://github.com/ttataryn",
       "https://facebook.com/ramantehlan",
       "https://www.instagram.com/ramantehlan/"
     ],
@@ -139,7 +139,7 @@
       "label": "github/ramantehlan"
     }, {
       "name": "linkedin",
-      "url": "https://www.linkedin.com/in/ramantehlan/",
+      "url": "https://www.linkedin.com/in/tarastataryn/",
       "icon": "fab fa-linkedin-in",
       "label": "linkedin/in/ramantehlan"
     }]
