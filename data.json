@@ -192,18 +192,18 @@
   }, {
     "id": 2,
     "key": "wo2",
-    "companyName": "AlvisAi",
-    "companyUrl": "https://github.com/ramantehlan/AlvisAI",
-    "role": "Founder & CEO",
-    "location": "Delhi, India",
-    "timeline": "07/2015 - 09/2016",
+    "companyName": "DePauw University",
+    "companyUrl": "https://www.depauw.edu/academics/centers/hubbard/careerpathsdetail/",
+    "role": "Intern",
+    "location": "Greencastle, Indiana",
+    "timeline": "01/2018 - 04/2018",
     "tag": [
-      "170+ First Month Users",
-      "Program-O",
-      "Artificial Intelligence",
-      "Bot"
+      "Tableau",
+      "Python",
+      "Javascript",
+      "Visualization"
     ],
-    "about": "A social network app with a built-in bot and AI. This AI can understand user 's feelings by processing their online posts and behavior. <ul><li> Anonymous update with features to include emotions. </li><li> Ranking system for users which increase as a user do more activities. </li> <li > Beautiful UI / UX with many features like add background image or a solid colour. </li></ul>"
+    "about": "Utilized D3 framework, Javascript, and HTML to create a dynamic sankey diagram that maps majors to careers. Currently hosted on University website"
   }, {
     "id": 1,
     "key": "wo1",
