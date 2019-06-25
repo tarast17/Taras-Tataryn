@@ -129,12 +129,12 @@
       "label": "Résumé"
     }, {
       "name": "email",
-      "url": "",
+      "url": "mailto@tarastataryn.city@gmail.com",
       "icon": "fas fa-paper-plane",
-      "label": "Ramantehlan[at]gmail"
+      "label": "tarastataryn.city[at]gmail"
     }, {
       "name": "github",
-      "url": "https://github.com/ramantehlan",
+      "url": "https://github.com/ttataryn",
       "icon": "fab fa-github",
       "label": "github/ramantehlan"
     }, {
@@ -147,14 +147,17 @@
   "work": [{
     "id": 5,
     "key": "wo5",
-    "companyName": "Udacity",
-    "companyUrl": "https://www.Udacity.com/",
-    "role": "Software Engineer Intern",
-    "location": "Delhi, India",
-    "timeline": "09/2018 - 11/2018",
+    "companyName": "Optum",
+    "companyUrl": "https://www.optum.com/",
+    "role": "Associate Cybersecurity Analyst",
+    "location": "Chaska, Minnesota",
+    "timeline": "01/2019 - Present",
     "tag": [
-      "JavaScript/TypeScript",
-      "Angular"
+      "FireEye Platforms",
+      "Arcsight", 
+      "Threat Intelligence/Research",
+      "Cyber Investigation/Triage",
+      "RSA Netwitness (DPI)"
     ],
     "about": "TBD"
   }, {
