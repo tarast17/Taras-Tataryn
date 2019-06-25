@@ -241,33 +241,33 @@
   "projects": [{
       "id": 11,
       "key": "pr11",
-      "title": "Supernova",
-      "url": "https://github.com/yogaan/Supernova-2",
-      "event": "NASA International Space App Challenge Final - 2018, 91Spring Board, Noida",
-      "eventUrl": "https://www.nasa.gov/content/the-international-space-apps-challenge/",
-      "productType": "Android/IOS App",
+      "title": "World Cup 2018 Visualization: Chord Diagram ",
+      "url": "https://ttataryn.github.io",
+      "event": "Hobby/Own Time",
+      "eventUrl": "https://ttataryn.github.io",
+      "productType": "Visualization",
       "timeline": "19/10/2018 - 21/10/2018",
       "tag": [
-        "3 people team",
-        "Accident detection",
-        "Optical Flow Analys"
+        "D3 Javascript",
+        "Sankey Diagram",
+        "Visualization"
       ],
-      "about": ""
+      "about": "Project I pursued on my own time due to passion for soccer and development"
     }, {
       "id": 10,
       "key": "pr10",
-      "title": "LegalAI",
-      "url": "https://github.com/ramantehlan/Supernova",
-      "event": "Techstars Startup Weekend, Delhi Technological University, Delhi",
-      "eventUrl": "http://startupweekend.org/",
-      "productType": "Webapp",
+      "title": "Major-Career Visualization",
+      "url": "https://www.depauw.edu/academics/centers/hubbard/careerpathsdetail/",
+      "event": "Independent Study - DePauw University",
+      "eventUrl": "https://www.depauw.edu/academics/centers/hubbard/careerpathsdetail/",
+      "productType": "Visualization",
       "timeline": "07/09/2018 - 09/09/2018",
       "tag": [
-        "3rd in 64 teams",
-        "ML/NLP",
-        "7 people team"
+        "Live on University Site",
+        "D3 Javascript",
+        "Visualization"
       ],
-      "about": "Platform for lawyers and legal firms to leverage ML/NLP to identify, extract, and analyze litigation cases, and manage them privately on cloud."
+      "about": "Dynamic visualization that can be used to map majors to careers at DePauw University. Exemplary for Liberal Arts"
     }, {
       "id": 9,
       "key": "pr9",
