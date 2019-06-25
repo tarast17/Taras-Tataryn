@@ -203,7 +203,7 @@
       "Javascript",
       "Visualization"
     ],
-    "about": "Utilized D3 framework, Javascript, and HTML to create a dynamic sankey diagram that maps majors to careers. Currently hosted on University website"
+    "about": "Utilized D3 framework, Javascript, and HTML to create a dynamic sankey diagram that maps majors to careers. Currently hosted on University website - <a href='https://www.depauw.edu/academics/centers/hubbard/careerpathsdetail/'> link </a>"
   }, {
     "id": 1,
     "key": "wo1",
