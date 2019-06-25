@@ -271,17 +271,16 @@
     }, {
       "id": 9,
       "key": "pr9",
-      "title": "Supernova",
-      "url": "https://github.com/ramantehlan/Supernova",
-      "event": "NASA International Space App Challenge Pre-Hackathon - 2018, Rohini, Delhi",
-      "eventUrl": "https://www.nasa.gov/content/the-international-space-apps-challenge/",
-      "productType": "Android/IOS App",
+      "title": "Ethical Analysis of Phishing Research ",
+      "url": "https://www.academia.edu/s/2e5ca9034e/ethical-analysis-of-phishing-research",
+      "event": "DePauw University - Prindle Institution",
+      "eventUrl": "https://www.depauw.edu/academics/centers/prindle/grants-awards/prindle-prizes/past-prindle-prize-recipients/",
+      "productType": "Essay",
       "timeline": "31/08/2018 - 01/09/2018",
       "tag": [
-        "4th in 70 teams",
-        "3 people team",
-        "Machine Learning",
-        "Optical Flow Analysis"
+        "1/4 recipients in STEM",
+        "Ethics",
+        "Phishing"
       ],
       "about": "Smart AI to keep people safe on beaches from all the dangers. It uses ML and real time data to inform people about UV Index, Weather forecasts, Tsunamis, Harmful Algal Blooms (HABs), Animal Attacks and RIP currents(Using Optical Flow Analysis) etc, all through just one app. <ul >  <li> Using current location fetch all the environmental factors, like UV Index, Pressure, Air Quality. </li> <li > Camera can take a short video of ocean to do Optical Flow Analysis, to detect RIP Currents. </li></ul>"
     },
