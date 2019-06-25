@@ -145,8 +145,8 @@
     }]
   },
   "work": [{
-    "id": 5,
-    "key": "wo5",
+    "id": 6,
+    "key": "wo6",
     "companyName": "Optum",
     "companyUrl": "https://www.optum.com/",
     "role": "Associate Cybersecurity Analyst",
@@ -159,8 +159,8 @@
     ],
     "about": "TBD"
   }, {
-    "id": 4,
-    "key": "wo4",
+    "id": 5,
+    "key": "wo5",
     "companyName": "Optum Rotation 1",
     "companyUrl": "https://www.optum.com/",
     "role": "Security Analyst",
@@ -175,8 +175,8 @@
     ],
     "about": "Worked on optimizing the current app, decrease O(n) to O(1) by making asynchronous functions, upgraded from angularJs to angular 5, wrote module to debug the app."
   }, {
-    "id": 3,
-    "key": "wo3",
+    "id": 4,
+    "key": "wo4",
     "companyName": "DePauw University",
     "companyUrl": "https://depauw.edu",
     "role": "Security Research Intern",
@@ -190,8 +190,8 @@
     ],
     "about": "An easy and smart service to maintain business transactions and documents online with analytics tools which provide more clear vision on cash flow. <ul> <li>Worked on powerful analytics tools to visualize all the business data.</li><li>Drag and drop document upload for all the important documents and files.</li><li>Beautiful UI/UX, with different modes for day and night.</li></ul>"
   }, {
-    "id": 2,
-    "key": "wo2",
+    "id": 3,
+    "key": "wo3",
     "companyName": "DePauw University",
     "companyUrl": "https://www.depauw.edu/academics/centers/hubbard/careerpathsdetail/",
     "role": "Intern",
@@ -205,21 +205,36 @@
     ],
     "about": "Utilized D3 framework, Javascript, and HTML to create a dynamic sankey diagram that maps majors to careers. Currently hosted on University website - <a href='https://www.depauw.edu/academics/centers/hubbard/careerpathsdetail/'> link </a>"
   }, {
-    "id": 1,
-    "key": "wo1",
-    "companyName": "MS Printing & Packaging CO",
+    "id": 2,
+    "key": "wo2",
+    "companyName": "UnitedHealth Group",
     "companyUrl": "http://www.msprintpack.in/",
-    "role": "Consultant",
-    "location": "Rai, Haryana",
-    "timeline": "05/2013 - 05/2015",
+    "role": "Security Analyst Intern",
+    "location": "Plymouth, Minnesota",
+    "timeline": "05/2017 - 08/2017",
     "tag": [
-      "30+ Business Clients Served",
-      "Design Thinking",
-      "Management",
-      "Branding",
-      "Advisor"
+      "Bash",
+      "MySQL",
+      "VBA",
+      "Java OOM",
+      "Web Development"
     ],
     "about": "I was responsible for branding and online presence, also for creating formats of various documents like ledgers, purchase order etc.<ul><li> Created ledgers in Excel sheets to decrease the use of paper. </li><li> Worked on company 's website and displayed business on the Google search.</li><li> Created formats for various documents like purchase orders,quotations etc.</li></ul>"
+  }, {
+    "id": 1,
+    "key": "wo1",
+    "companyName": "First Internet Bank",
+    "companyUrl": "https://www.depauw.edu/academics/centers/hubbard/careerpathsdetail/",
+    "role": "IT Security Intern",
+    "location": "Indianapolis, Indiana",
+    "timeline": "01/2017 - 05/2017",
+    "tag": [
+      "JIRA",
+      "Security Concepts",
+      "Phishing",
+      "Cyber Regulations/Financial Industry"
+    ],
+    "about": "Utilized D3 framework, Javascript, and HTML to create a dynamic sankey diagram that maps majors to careers. Currently hosted on University website - <a href='https://www.depauw.edu/academics/centers/hubbard/careerpathsdetail/'> link </a>"
   }],
   "projects": [{
       "id": 11,
