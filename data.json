@@ -91,22 +91,14 @@
   "about": {
     "title": "Welcome!",
     "body": "I'm Taras Tataryn. Here I attempt to provide as much details and information I can about myself and my past experiences that isn't seen on LinkedIn or my resume. Please feel free to reach out with any questions or comments",
-    "signature": "Regards <br> <b>Raman Tehlan</b>"
+    "signature": "Regards <br> <b>Taras Tataryn</b>"
   },
   "profile": {
     "name": "Taras Tataryn",
-    "image": "https://drive.google.com/uc?export=view&id=1qlBcPkxg9usJxJaMZe2y5YYyhGBu6tEh",
+    "image": "https://imgur.com/a/DQ1y95G",
     "domains": "Cybersecurity Analyst | Triathlete | Sports enthusiast",
     "vision": "Passionate in Cyber Security, threat intelligence, and automation to improve security platforms. ",
-    "url": "https://ramantehlan.github.io",
-    "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Dwarka",
-        "addressLocality": "Delhi",
-        "addressRegion": "Delhi",
-        "postalCode": "110075",
-        "addressCountry": "India"
-    },
+    "url": "https://tarast17.github.io/Taras-Tataryn",
     "email": "mailto:tarastataryn.city@gmail.com",
     "alumniOf": "DePauw University",
     "birthPlace": "DC",
@@ -117,10 +109,7 @@
     "nationality": "",
     "sameAs":[
       "https://www.linkedin.com/in/tarastataryn/",
-      "https://twitter.com/ramantehlan",
-      "https://github.com/ttataryn",
-      "https://facebook.com/ramantehlan",
-      "https://www.instagram.com/ramantehlan/"
+      "https://github.com/ttataryn"
     ],
     "link": [{
       "name": "resume",
@@ -401,13 +390,50 @@
       "about": "Optimus helps businesses visualise their data and get better insights into the factors which are driving sales. <ul >  <li> Platform to collect data from all over the world to process in real time. </li> <li > Focused on key factors like when to advertise more, which brand need more focused or which item to produce more and when. </li> <li > Great visualization tools for all the data. </li></ul>"
     }
   ],
-  "achievements": [{
+  "Certs/Trainings": [{
+    "id": 5,
+    "key": "ac5",
+    "title": "Metro State Incident Handler Course",
+    "url": "",
+    "location": "Metro State University",
+    "timeline": "04/2019",
+    "tag": [
+      "GCIH",
+      "Incident Handling",
+      "Cyber Range"
+    ],
+    "about": "Thorough training provided by FireEye in regards to their cloud based SIEM called Helix. "
+  }, {
+    "id": 4,
+    "key": "ac4",
+    "title": "FireEye Helix Training",
+    "url": "af3a-33dad6e86704",
+    "location": "FireEye",
+    "timeline": "03/2019",
+    "tag": [
+      "FireEye",
+      "SIEM",
+      "Helix"
+    ],
+    "about": "Thorough training provided by FireEye in regards to their cloud based SIEM called Helix. "
+  }, {
+    "id": 3,
+    "key": "ac3",
+    "title": "Secure 360 Conference",
+    "url": "af3a-33dad6e86704",
+    "location": "CompTIA",
+    "timeline": "04/2019",
+    "tag": [
+      "Cyber Security"
+    ],
+    "about": "Largest security conference in Minnesota. Great networking opportunities and learned a lot in regards to Incident Response, threat hunting, FBI cyber investigations, etc."
+  }, {
     "id": 2,
     "key": "ac2",
     "title": "CompTIA Security+ Certification",
-    "url": "https://s3-us-west-2.amazonaws.com/udacity-email/Scholarships/Google-Scholarship-India-Badge.png?utm_medium=email&utm_campaign=sch_600_auto_ndxxx_accepted-google-india&utm_source=blueshift&utm_content=sch_600_auto_ndxxx_accepted-google-india&bsft_eid=d8fd1fe3-6ebc-4fc5-b432-3ecfb97e17fb&bsft_clkid=1f4e2ac6-f62e-4f32-a82a-27b0f5926b02&bsft_uid=b77c40e0-be86-4cd4-8c73-dccd0d216cb3&bsft_mid=de0f7d62-2fe1-4706-8f5b-513755cbd83b&bsft_txnid=a28d2161-4b97-4972-af3a-33dad6e86704",
+    "url": "https://www.youracclaim.com/badges/7608117b-69e2-4428-b13f-ca5ae737e903/linked_in_profile",
     "location": "CompTIA",
-    "timeline": "02/2018",
+    "timeline": "11/2018",
     "tag": [
       "Cyber Security"
     ],
@@ -415,16 +441,17 @@
   }, {
     "id": 1,
     "key": "ac1",
-    "title": "2nd | International Robotic Competition (IRC)",
-    "url": "http://www.ircleague.com/past-IRCs.php",
-    "location": "Husky Union Building, University of Washington, Seattle, USA",
-    "timeline": "06/2015",
+    "title": "RSA CTF + Simulation Exercises",
+    "url": "",
+    "location": "Chaska,MN",
+    "timeline": "06/2019",
     "tag": [
-      "Robotics",
-      "Problem Solving",
-      "Process Automation"
+      "Incident Response",
+      "Packet Analysis",
+      "Netwitness",
+      "Capture the Flag"
     ],
-    "about": "My team `Real Steel` designed a rocket assembly process for IRC International 2014 held at Seattle, USA in 2015. <ul><li> Robot aim was to assemble a rocket. </li> <li> Created a black line follower robot which could remove obstacles. </li> <li> The robot picked objects to place them at a launchpad. </li></ul>"
+    "about": "Two separate trainings with RSA and their Netwitness tool - one was a Capture the Flag event utilizing solely Netwitness. I came in first place amongst our team members. The second training was a similar exercise but utilized a fat client and didn't include any sort of flags or clues to follow. Both were invaluable for learning to navigate the tool and for investigations."
   }],
   "blog": [{
     "id": 1,
