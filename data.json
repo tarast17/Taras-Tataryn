@@ -147,7 +147,7 @@
   "work": [{
     "id": 6,
     "key": "wo6",
-    "companyName": "Optum",
+    "companyName": "Optum - Security Operations Center",
     "companyUrl": "https://www.optum.com/",
     "role": "Associate Cybersecurity Analyst",
     "location": "Chaska, Minnesota",
@@ -159,7 +159,7 @@
       "Threat Research/Intelligence",
       "Cyber Investigations/Triage"
     ],
-    "about": "TBD"
+    "about": "I came in with zero experience in this specific area in security (networking, triaging cases, investigations, etc.). As a SOC analyst I developed numerous different skills including: <ul> <li> Cyber investigations and triaging with a SIEM and using various different tools including those listed above </li> <li> APT research and reporting using OSINT and malware analysis </li> <li> Incident handling and the full IR lifecycle </li> <li> Forensics, threat hunting, and other various on the job experience </li> </ul> "
   }, {
     "id": 5,
     "key": "wo5",
