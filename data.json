@@ -99,6 +99,14 @@
     "domains": "Cybersecurity Analyst | Triathlete | Sports enthusiast",
     "vision": "Passionate in Cyber Security, threat intelligence, and automation to improve security platforms. ",
     "url": "https://tarast17.github.io/Taras-Tataryn",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Dwarka",
+        "addressLocality": "Delhi",
+        "addressRegion": "Delhi",
+        "postalCode": "110075",
+        "addressCountry": "India"
+    },
     "email": "mailto:tarastataryn.city@gmail.com",
     "alumniOf": "DePauw University",
     "birthPlace": "DC",
