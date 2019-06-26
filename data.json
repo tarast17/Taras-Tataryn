@@ -64,7 +64,7 @@
     "display": true,
     "icon": "fas fa-project-diagram"
   }, {
-    "title": "achievements",
+    "title": "Certs/Trainings",
     "display": true,
     "icon": "fas fa-award"
   }, {
@@ -89,8 +89,8 @@
     "icon": "fa fa-link"
   }],
   "about": {
-    "title": "Hello There!",
-    "body": "I'm Raman Tehlan, Welcome to my tiny space on the internet, here I share about my work, life and everything in between. If you want to know more about me, feel free to use the above menu and checkout out more about me.",
+    "title": "Welcome!",
+    "body": "I'm Taras Tataryn. Here I attempt to provide as much details and information I can about myself and my past experiences that isn't seen on LinkedIn or my resume. Please feel free to reach out with any questions or comments",
     "signature": "Regards <br> <b>Raman Tehlan</b>"
   },
   "profile": {
@@ -124,7 +124,7 @@
     ],
     "link": [{
       "name": "resume",
-      "url": "https://drive.google.com/open?id=1dloQ-o82YjmJbMkPU1feTpSxIv--5Jfp",
+      "url": "https://www.slideshare.net/slideshow/embed_code/key/wlmHZPRtMj5iKM",
       "icon": "fas fa-user",
       "label": "Résumé"
     }, {
@@ -252,7 +252,7 @@
         "Sankey Diagram",
         "Visualization"
       ],
-      "about": "Project I pursued on my own time due to passion for soccer and development"
+      "about": "Project I pursued on my own time due to passion for soccer and development. It provides a visualization of soccer players in the World Cup and which professional leagues around the world they come from. Link: https://ttataryn.github.io"
     }, {
       "id": 10,
       "key": "pr10",
@@ -282,7 +282,7 @@
         "Ethics",
         "Phishing"
       ],
-      "about": "Smart AI to keep people safe on beaches from all the dangers. It uses ML and real time data to inform people about UV Index, Weather forecasts, Tsunamis, Harmful Algal Blooms (HABs), Animal Attacks and RIP currents(Using Optical Flow Analysis) etc, all through just one app. <ul >  <li> Using current location fetch all the environmental factors, like UV Index, Pressure, Air Quality. </li> <li > Camera can take a short video of ocean to do Optical Flow Analysis, to detect RIP Currents. </li></ul>"
+      "about": "Takes a look at phishing research and whether or not it is conducted in an ethical manner. My paper won a Prindle Prize at DePauw, which is 'Awarded to the best project in Science, Technology, Engineering or Math that has implications for or directly speaks to an issue of ethical concern.'"
     },
     {
       "id": 8,
@@ -790,7 +790,7 @@
   }],
   "skills": {
     "color": ["#e67e22;", "#4288d0;", "#035E7B", "#525252;", "#E5128D;", "#2ecc71;", "#3498db;", "#4288d0;"],
-    "title": ["Programming (Strong)", "Programming (Intermediate)", "Systems", "Security", "Frameworks", "Security Software/Tools", "Other Software/tools", "Soft Skills"],
+    "title": ["Programming (Strong)", "Programming (Intermediate)", "Systems", "Security", "Security Software/Tools"],
     "data": {
       "0": [{
         "name": "JavaScript",
@@ -862,45 +862,6 @@
       }, {
         "name": "Wireshark/PCAP analysis",
         "percent": "20"
-      }],
-      "5": [{
-        "name": "Android",
-        "percent": "20"
-      }],
-      "6": [{
-        "name": "Vi/Vim",
-        "percent": "30"
-      }, {
-        "name": "Git",
-        "percent": "60"
-      }, {
-        "name": "Photoshop",
-        "percent": "50"
-      }],
-      "7": [{
-        "name": "Self-Motivated",
-        "percent": "100"
-      }, {
-        "name": "Persistent",
-        "percent": "96"
-      }, {
-        "name": "Design Thinker",
-        "percent": "100"
-      }, {
-        "name": "Problem Solver",
-        "percent": "100"
-      }, {
-        "name": "Leader",
-        "percent": "98"
-      }, {
-        "name": "Manager",
-        "percent": "100"
-      }, {
-        "name": "Creative",
-        "percent": "98"
-      }, {
-        "name": "Goal Oriented",
-        "percent": "100"
       }]
     }
   }
