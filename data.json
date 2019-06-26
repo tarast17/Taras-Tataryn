@@ -790,13 +790,13 @@
   }],
   "skills": {
     "color": ["#e67e22;", "#4288d0;", "#035E7B", "#525252;", "#E5128D;", "#2ecc71;", "#3498db;", "#4288d0;"],
-    "title": ["Frontend", "Backend", "DevOps", "Database", "Frameworks", "Mobile", "Other Software/tools", "Soft Skills"],
+    "title": ["Programming (Strong)", "Programming (Intermediate)", "Security", "Database", "Frameworks", "Mobile", "Other Software/tools", "Soft Skills"],
     "data": {
       "0": [{
         "name": "JavaScript",
         "percent": "90"
       }, {
-        "name": "TypeScript",
+        "name": "Python",
         "percent": "90"
       }, {
         "name": "HTML",
@@ -805,15 +805,6 @@
         "name": "CSS",
         "percent": "95"
       }, {
-        "name": "SASS",
-        "percent": "80"
-      }, {
-        "name": "JQuery",
-        "percent": "90"
-      }, {
-        "name": "XML",
-        "percent": "100"
-      }, {
         "name": "JSON",
         "percent": "95"
       }],
@@ -821,17 +812,20 @@
         "name": "Java",
         "percent": "85"
       }, {
-        "name": "NodeJs",
+        "name": "jQuery",
         "percent": "40"
       }, {
         "name": "PHP",
         "percent": "90"
       }, {
-        "name": "Pyton",
+        "name": "PERL",
         "percent": "80"
       }, {
         "name": "C/C++",
         "percent": "75"
+      }, {
+        "name": "mySQL",
+        "percent": "80"
       }],
       "2": [{
         "name": "Linux",
