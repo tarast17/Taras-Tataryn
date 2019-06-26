@@ -163,7 +163,7 @@
   }, {
     "id": 5,
     "key": "wo5",
-    "companyName": "Optum Rotation 1",
+    "companyName": "Optum - Business Information Security Office",
     "companyUrl": "https://www.optum.com/",
     "role": "Security Analyst",
     "location": "Plymouth, Minnesota",
@@ -175,11 +175,11 @@
       "Security Awareness",
       "Phishing"
     ],
-    "about": "Worked on optimizing the current app, decrease O(n) to O(1) by making asynchronous functions, upgraded from angularJs to angular 5, wrote module to debug the app."
+    "about": "While working as a 'Security Analyst' I dealt with more business facing tasks related to security including security awareness, phishing, vulnerability assessments, and some scripting work validating certificates."
   }, {
     "id": 4,
     "key": "wo4",
-    "companyName": "DePauw University",
+    "companyName": "DePauw University - Computer Science Department",
     "companyUrl": "https://depauw.edu",
     "role": "Security Research Intern",
     "location": "Greencastle, Indiana",
@@ -190,7 +190,7 @@
       "Security Research",
       "Social Media Phishing"
     ],
-    "about": "An easy and smart service to maintain business transactions and documents online with analytics tools which provide more clear vision on cash flow. <ul> <li>Worked on powerful analytics tools to visualize all the business data.</li><li>Drag and drop document upload for all the important documents and files.</li><li>Beautiful UI/UX, with different modes for day and night.</li></ul>"
+    "about": "The project's main goal was to educate social media users to prevent phishing attacks and the release of private information using data mining and a tweet bot that would automatically reply to malicious tweets. Our project was presented at a local conference held at our University and won best poster award."
   }, {
     "id": 3,
     "key": "wo3",
@@ -205,12 +205,12 @@
       "Javascript",
       "Visualization"
     ],
-    "about": "Utilized D3 framework, Javascript, and HTML to create a dynamic sankey diagram that maps majors to careers. Currently hosted on University website - <a href='https://www.depauw.edu/academics/centers/hubbard/careerpathsdetail/'> link </a>"
+    "about": "Utilized the D3 framework, Javascript, and HTML to create a dynamic sankey diagram that maps majors to careers. Currently hosted on University website - <a href='https://www.depauw.edu/academics/centers/hubbard/careerpathsdetail/'> link </a>"
   }, {
     "id": 2,
     "key": "wo2",
     "companyName": "UnitedHealth Group",
-    "companyUrl": "http://www.msprintpack.in/",
+    "companyUrl": "https://www.uhg.com/",
     "role": "Security Analyst Intern",
     "location": "Plymouth, Minnesota",
     "timeline": "05/2017 - 08/2017",
@@ -226,7 +226,7 @@
     "id": 1,
     "key": "wo1",
     "companyName": "First Internet Bank",
-    "companyUrl": "https://www.depauw.edu/academics/centers/hubbard/careerpathsdetail/",
+    "companyUrl": "https://www.firstib.com/",
     "role": "IT Security Intern",
     "location": "Indianapolis, Indiana",
     "timeline": "01/2017 - 05/2017",
