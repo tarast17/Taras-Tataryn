@@ -804,9 +804,6 @@
       }, {
         "name": "CSS",
         "percent": "95"
-      }, {
-        "name": "JSON",
-        "percent": "95"
       }],
       "1": [{
         "name": "Java",
@@ -838,18 +835,33 @@
         "percent": "20"
       }],
       "3": [{
-        "name": "MySql",
+        "name": "SIEM analysis",
         "percent": "80"
       }, {
-        "name": "MongoDB",
+        "name": "IDS/IPS",
+        "percent": "20"
+      }, {
+        "name": "Threat Intel",
+        "percent": "20"
+      }, {
+        "name": "Simulations/Exercises",
         "percent": "20"
       }],
       "4": [{
-        "name": "Ionic",
+        "name": "FireEye (Helix/EX/NX)",
         "percent": "30"
       }, {
-        "name": "Angular",
+        "name": "Arcsight (Logger/ESM)",
         "percent": "40"
+      }, {
+        "name": "ServiceNow",
+        "percent": "20"
+      }, {
+        "name": "Agari",
+        "percent": "20"
+      }, {
+        "name": "Wireshark/PCAP analysis",
+        "percent": "20"
       }],
       "5": [{
         "name": "Android",
