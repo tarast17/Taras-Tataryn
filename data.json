@@ -47,7 +47,7 @@
     }
   ]
   ,
-  "menu": [{
+   "menu": [{
     "title": "about",
     "display": true,
     "icon": "fas fa-user"
@@ -64,7 +64,7 @@
     "display": true,
     "icon": "fas fa-project-diagram"
   }, {
-    "title": "certs and trainings",
+    "title": "achievements",
     "display": true,
     "icon": "fas fa-award"
   }, {
@@ -89,10 +89,10 @@
     "icon": "fa fa-link"
   }],
   "about": {
-    "title": "Welcome!",
-    "body": "I'm Taras Tataryn. Here I attempt to provide as much details and information I can about myself and my past experiences that isn't seen on LinkedIn or my resume. Please feel free to reach out with any questions or comments",
-    "signature": "Regards <br> <b>Taras Tataryn</b>"
-  },
+    "title": "Hello There!",
+    "body": "I'm Raman Tehlan, Welcome to my tiny space on the internet, here I share about my work, life and everything in between. If you want to know more about me, feel free to use the above menu and checkout out more about me.",
+    "signature": "Regards <br> <b>Raman Tehlan</b>"
+},
   "profile": {
     "name": "Taras Tataryn",
     "image": "https://imgur.com/a/DQ1y95G",
