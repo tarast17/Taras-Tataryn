@@ -398,7 +398,7 @@
       "about": "Optimus helps businesses visualise their data and get better insights into the factors which are driving sales. <ul >  <li> Platform to collect data from all over the world to process in real time. </li> <li > Focused on key factors like when to advertise more, which brand need more focused or which item to produce more and when. </li> <li > Great visualization tools for all the data. </li></ul>"
     }
   ],
-  "certs and trainings": [{
+  "achievements": [{
     "id": 5,
     "key": "ac5",
     "title": "Metro State Incident Handler Course",
@@ -662,7 +662,7 @@
     "about": "<ul> <li > Learned about the application of Design Thinking for Innovation. </li> <li > Explored methods to find out new ideas using current data. </li> <li > Possibility - driven, human - centred and option - focused approach. </li></ul>",
     "complete": true
   }],
-  "Trainings": [{
+  "contributions": [{
     "title": "phpMyAdmin/phpMyAdmin ",
     "url": "https://github.com/phpmyadmin/phpmyadmin/commits?author=ramantehlan"
   }, {
