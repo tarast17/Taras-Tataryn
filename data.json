@@ -233,7 +233,7 @@
       "Phishing",
       "Cyber Regulations/Financial Industry"
     ],
-    "about": "Utilized D3 framework, Javascript, and HTML to create a dynamic sankey diagram that maps majors to careers. Currently hosted on University website - <a href='https://www.depauw.edu/academics/centers/hubbard/careerpathsdetail/'> https://www.depauw.edu/academics/centers/hubbard/careerpathsdetail </a>"
+    "about": "4 month long internship in a popular online bank in Indiana. <ul> <li> Participated in info sec risk assessments and meetings related to bank operations </li> <li> Utilized PM software called Jira to restructure new hire process by implementing Role Based Access Control (RBAC) </li> <li> Learned to use PhishMe and leveraged on internal employees writing campaigns and writing up metric reports </li> <li> Provided insight and observations into company's adherence to FFIEC regulations </li> </ul>"
   }],
   "projects": [{
       "id": 11,
@@ -399,8 +399,8 @@
     }
   ],
   "trainings": [{
-    "id": 5,
-    "key": "ac5",
+    "id": 6,
+    "key": "ac6",
     "title": "Metro State Incident Handler Course",
     "url": "",
     "location": "Metro State University",
@@ -410,10 +410,10 @@
       "Incident Handling",
       "Cyber Range"
     ],
-    "about": "Thorough training provided by FireEye in regards to their cloud based SIEM called Helix. "
+    "about": "Weeklong course titled 'Range-Powered Incident Handling for the GCIH Certification'. The course provided advanced hands-on training with the Cyber Range where we worked in teams to monitor, detect, analyze and respond to numerous different types of breaches replicating that of which would occur in an enteprise network."
   }, {
-    "id": 4,
-    "key": "ac4",
+    "id": 5,
+    "key": "ac5",
     "title": "FireEye Helix Training",
     "url": "af3a-33dad6e86704",
     "location": "FireEye",
@@ -425,8 +425,8 @@
     ],
     "about": "Thorough training provided by FireEye in regards to their cloud based SIEM called Helix. "
   }, {
-    "id": 3,
-    "key": "ac3",
+    "id": 4,
+    "key": "ac4",
     "title": "Secure 360 Conference",
     "url": "af3a-33dad6e86704",
     "location": "CompTIA",
@@ -436,8 +436,8 @@
     ],
     "about": "Largest security conference in Minnesota. Great networking opportunities and learned a lot in regards to Incident Response, threat hunting, FBI cyber investigations, etc."
   }, {
-    "id": 2,
-    "key": "ac2",
+    "id": 3
+    "key": "ac3",
     "title": "CompTIA Security+ Certification",
     "url": "https://www.youracclaim.com/badges/7608117b-69e2-4428-b13f-ca5ae737e903/linked_in_profile",
     "location": "CompTIA",
@@ -445,10 +445,10 @@
     "tag": [
       "Cyber Security"
     ],
-    "about": "Recipient of Google India Challenge Scholarship for the Android Developer track."
+    "about": "Entry level certification from CompTIA. Came in with ~2 months of experience and learned all the material myself."
   }, {
-    "id": 1,
-    "key": "ac1",
+    "id": 2,
+    "key": "ac2",
     "title": "RSA CTF + Simulation Exercises",
     "url": "",
     "location": "Chaska,MN",
@@ -460,6 +460,18 @@
       "Capture the Flag"
     ],
     "about": "Two separate trainings with RSA and their Netwitness tool - one was a Capture the Flag event utilizing solely Netwitness. I came in first place amongst our team members. The second training was a similar exercise but utilized a fat client and didn't include any sort of flags or clues to follow. Both were invaluable for learning to navigate the tool and for investigations."
+  }, {
+    "id": 1,
+    "key": "ac1",
+    "title": "Cyber Security Chicago Conference",
+    "url": "",
+    "location": "Chicago Illinois",
+    "timeline": "10/2017",
+    "tag": [
+      "Cyber Security",
+      "Kevin Mitnick",
+    ],
+    "about": "Very popular security conference held in Chicago with an abundance of vendors and prolific speakers including Kevin Mitnick."
   }],
   "blog": [{
     "id": 1,
