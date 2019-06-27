@@ -64,7 +64,7 @@
     "display": true,
     "icon": "fas fa-project-diagram"
   }, {
-    "title": "trainings",
+    "title": "certs/trainings",
     "display": true,
     "icon": "fas fa-award"
   }, {
@@ -398,7 +398,7 @@
       "about": "Optimus helps businesses visualise their data and get better insights into the factors which are driving sales. <ul >  <li> Platform to collect data from all over the world to process in real time. </li> <li > Focused on key factors like when to advertise more, which brand need more focused or which item to produce more and when. </li> <li > Great visualization tools for all the data. </li></ul>"
     }
   ],
-  "trainings": [{
+  "achievements": [{
     "id": 5,
     "key": "ac5",
     "title": "Metro State Incident Handler Course",
