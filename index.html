@@ -127,7 +127,7 @@
 
           <div id="achievements" class="hidden">
             <span v-if="render">
-              <div class="break-heading">Achievements [{{ data.achievements.length }}]</div>
+              <div class="break-heading"> [{{ data.achievements.length }}]</div>
               <card v-for="info in data.achievements" v-bind:info="info" v-bind:key="info.key"></card>
             </span>
           </div>
