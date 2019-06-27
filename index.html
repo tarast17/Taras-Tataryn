@@ -127,7 +127,7 @@
 
           <div id="trainings" class="hidden">
             <span v-if="render">
-              <div class="break-heading"> [{{ data.trainings.length }}]</div>
+              <div class="break-heading"> Trainings Attended (not online) [{{ data.trainings.length }}]</div>
               <card v-for="info in data.trainings" v-bind:info="info" v-bind:key="info.key"></card>
             </span>
           </div>
