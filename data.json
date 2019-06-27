@@ -438,14 +438,14 @@
   }, {
     "id": 3,
     "key": "ac3",
-    "title": "CompTIA Security+ Certification",
+    "title": "CompTIA Security+ Training",
     "url": "https://www.youracclaim.com/badges/7608117b-69e2-4428-b13f-ca5ae737e903/linked_in_profile",
     "location": "CompTIA",
     "timeline": "11/2018",
     "tag": [
       "Cyber Security"
     ],
-    "about": "Entry level certification from CompTIA. Came in with ~2 months of experience and learned all the material myself."
+    "about": "Entry level certification from CompTIA. Full week bootcamp learning Security+ concepts and other applicable content."
   }, {
     "id": 2,
     "key": "ac2",
@@ -492,55 +492,33 @@
   "education": [{
     "id": 5,
     "key": "ed5",
-    "institute": "SRM University",
+    "institute": "DePauw University",
     "url": "#",
-    "level": "Bachelor of technology in computer science",
-    "timeline": "05/2016 - Present",
+    "level": "Bachelor of Science in Computer Science",
+    "timeline": "08/2014 - 05/2018",
     "coursework": {
-      "Semester 1": [
-        "Basic Engineering - I",
-        "Biology for Engineers",
-        "Principles of Environmental Sciences",
-        "Mathematics - I",
-        "Material Science"
+      "Applicable Coursework": [
+        "Computer Science",
+        "Computer Systems",
+        "Data Structures",
+        "Data Science",
+        "Object Oriented Software Development",
+        "Web Programming & Cyber Security",
+        "Human Computer Interaction",
+        "Senior Project - CS"
       ],
-      "Semester 2": [
-        "Digital Computer Fundamentals",
-        "Programming in C",
-        "Chemistry",
-        "Basic Engineering - II",
-        "Mathematics II",
-        "Engineering Graphics",
-        "Physics"
+      "Achievements": [
+        "Senior Athlete Top Ten Academic Award",
+        "Summa Cum Laude",
+        "Academic All-Conference (soccer x4 years)",
+        "Deans Honor List (each semester)",
+        "Phillip Holton Memorial Scholarship",
+        "Prindle Prize Essay Award"
       ],
-      "Semester 3": [
-        "Data Structures Using C++",
-        "Design And Analysis Of Algorithms",
-        "Microprocessor And Interfacing",
-        "Computer Organization And Architecture",
-        "French language – I",
-        "Mathematics III"
-      ],
-      "Semester 4": [
-        "Principles of Programming languages",
-        "Theory Of Computation",
-        "Operating Systems",
-        "Java Programming",
-        "Probability And Queuing Theory"
-      ],
-      "Semester 5": [
-        "Compliler Design",
-        "Computer Networks",
-        "Operations Research Techniques",
-        "Soft Computing",
-        "Principles of Communication"
-      ],
-      "Semester 6": [
-        "Artificial Intelligence & Expert Systems",
-        "Advance Database",
-        "Database Management Systems",
-        "Logic For Computer Science",
-        "Object Oriented Analysis & Design"
+      "Activities/Clubs": [
+        "Data Science Club",
+        "Soccer Team",
+        "Track and Field"
       ]
     }
   }, {
