@@ -125,20 +125,17 @@
             </span>
           </div>
 
-          <div id="achievements" class="hidden">
+          <div id="trainings" class="hidden">
             <span v-if="render">
-              <div class="break-heading"> [{{ data.achievements.length }}]</div>
-              <card v-for="info in data.achievements" v-bind:info="info" v-bind:key="info.key"></card>
+              <div class="break-heading"> [{{ data.trainings.length }}]</div>
+              <card v-for="info in data.trainings" v-bind:info="info" v-bind:key="info.key"></card>
             </span>
           </div>
 
-          <div id="contributions" class="hidden">
+          <div id="certs" class="hidden">
             <span v-if="render">
-              <span v-if="data.contributions">
-                <div class="break-heading">OpenSource Contributions [{{ data.contributions.length }}]</div>
-                <div class="small-card-holder">
-                  <smallcard v-for="info in data.contributions" v-bind:info="info" v-bind:key="info.key"> </smallcard>
-                </div>
+              <span v-if="data.certs">
+                <div class="break-heading">Certifications [{{ data.certs.length }}]</div>
               </span>
 
               <span v-if="data.communities">
