@@ -169,38 +169,6 @@
             </span>
           </div>
 
-
-          <div id="blog" class="hidden">
-            <span v-if="render">
-              <span v-if="data.blog">
-                <div class="break-heading">Blog [{{ data.blog.length }}]</div>
-                <card v-for="info in data.blog" v-bind:info="info" v-bind:key="info.key"></card>
-              </span>
-            </span>
-          </div>
-
-          <div id="talks" class="hidden">
-            <span v-if="render">
-              <span v-if="data.talks">
-                <div class="break-heading">Talks [{{ data.talks.length }}]</div>
-                <card v-for="info in data.talks" v-bind:info="info" v-bind:key="info.key"></card>
-              </span>
-            </span>
-          </div>
-
-          <div id="links" class="hidden">
-            <span v-if="render">
-              <span v-if="data.links">
-                <div class="break-heading">Links [{{ data.links.length }}]</div>
-                <div class="small-card-holder">
-                  <smallcard v-for="info in data.links" v-bind:info="info" v-bind:key="info.key"> </smallcard>
-                </div>
-              </span>
-            </span>
-            </span>
-          </div>
-
-
         </div>
 
 
@@ -208,7 +176,7 @@
 
       <!-- Footer -->
       <div class="footer">
-        Designed and Developed by <a href="https://ramantehlan.github.io">Raman Tehlan</a> | <a href="https://github.com/ramantehlan/Moi">Open Source</a>
+        Template taken from <a href="https://ramantehlan.github.io">(GitHub link)</a> | <a href="https://github.com/ramantehlan/Moi">Open Source</a>
       </div>
 
     </div>
