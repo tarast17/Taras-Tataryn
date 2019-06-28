@@ -75,23 +75,11 @@
     "title": "education",
     "display": true,
     "icon": "fa fa-graduation-cap"
-  },{
-    "title": "blog",
-    "display": true,
-    "icon": "fas fa-star"
-  }, {
-    "title": "talks",
-    "display": true,
-    "icon": "fas fa-microphone"
-  }, {
-    "title": "links",
-    "display": true,
-    "icon": "fa fa-link"
   }],
   "about": {
     "title": "Hello There!",
-    "body": "I'm Raman Tehlan, Welcome to my tiny space on the internet, here I share about my work, life and everything in between. If you want to know more about me, feel free to use the above menu and checkout out more about me.",
-    "signature": "Regards <br> <b>Raman Tehlan</b>"
+    "body": "I'm Taras Tataryn, Welcome to my personal site, where I share everything about my work, education, projects, and everything in between. If you want to know more feel free to read more using the tabs above or contact me via email.",
+    "signature": "Regards <br> <b>Taras Tataryn </b>"
 },
   "profile": {
     "name": "Taras Tataryn",
@@ -123,7 +111,7 @@
       "name": "resume",
       "url": "https://www.slideshare.net/slideshow/embed_code/key/wlmHZPRtMj5iKM",
       "icon": "fas fa-user",
-      "label": "Résumé"
+      "label": "Resume"
     }, {
       "name": "email",
       "url": "mailto@tarastataryn.city@gmail.com",
