@@ -494,63 +494,12 @@
     "complete": true
   }],
   "certs": [{
-    "title": "phpMyAdmin/phpMyAdmin ",
-    "url": "https://github.com/phpmyadmin/phpmyadmin/commits?author=ramantehlan"
+    "title": "CompTIA Security+ (Complete)",
+    "url": "https://www.youracclaim.com/badges/7608117b-69e2-4428-b13f-ca5ae737e903/linked_in_profile"
   }, {
-    "title": "Fossasia/Meilix",
-    "url": "https://github.com/fossasia/meilix/commits?author=ramantehlan"
-  }, {
-    "title": "Fossasia/Meilix-artwork",
-    "url": "https://github.com/fossasia/meilix-artwork/commits?author=ramantehlan"
-  }, {
-    "title": "Yogdaan/LinuxSpells",
-    "url": "https://github.com/yogdaan/LinuxSpells/commits?author=ramantehlan"
-  }, {
-    "title": "Yogdaan/Supernova-2",
-    "url": "https://github.com/yogdaan/Supernova-2/commits?author=ramantehlan"
-  }, {
-    "title": "loklak/loklak_artwork",
-    "url": "https://github.com/loklak/loklak_artwork/commits?author=ramantehlan"
-  }, {
-    "title": "chrislgarry/Apollo-11",
-    "url": "https://github.com/chrislgarry/Apollo-11/commits?author=ramantehlan"
+    "title": "CompTIA CySA+",
+    "url": "#"
   }],
-  "communities": [{
-      "id": 1,
-      "key": "cm1",
-      "title": "PyData - Delhi",
-      "url": "#",
-      "timeline": "2017 - Present"
-    },
-    {
-      "id": 2,
-      "key": "cm2",
-      "title": "PyLadies - Delhi",
-      "url": "#",
-      "timeline": "2018 - Present"
-    },
-    {
-      "id": 3,
-      "key": "cm3",
-      "title": "LinuxChix - India",
-      "url": "#",
-      "timeline": "2018 - Present"
-    },
-    {
-      "id": 4,
-      "key": "cm4",
-      "title": "India Linux User Group - Delhi",
-      "url": "#",
-      "timeline": "2018 - Present"
-    },
-    {
-      "id": 5,
-      "key": "cm5",
-      "title": "PyDelhi",
-      "url": "#",
-      "timeline": "2017 - 2018"
-    }
-  ],
   "links": [{
     "key": "li11",
     "url": "https://github.com/ramantehlan",
