@@ -154,7 +154,7 @@
                 <card v-for="info in data.education" v-bind:info="info" v-bind:key="info.key"></card>
               </span>
               <span v-if="data.courses">
-                <div class="break-heading">Online Cources [{{ data.courses.length }}]</div>
+                <div class="break-heading">Online Courses [{{ data.courses.length }}]</div>
                 <card v-for="info in data.courses" v-bind:info="info" v-bind:key="info.key" v-if="info.complete"></card>
               </span>
             </span>
