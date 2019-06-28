@@ -490,8 +490,8 @@
     "timeline": "19/01/2019"
   }],
   "education": [{
-    "id": 5,
-    "key": "ed5",
+    "id": 2,
+    "key": "ed2",
     "institute": "DePauw University",
     "url": "#",
     "level": "Bachelor of Science in Computer Science",
@@ -522,87 +522,24 @@
       ]
     }
   }, {
-    "id": 4,
-    "key": "ed4",
-    "institute": "Sachdeva Global School",
-    "url": "http://sachdevaglobal.in/",
-    "level": "High school",
-    "timeline": "04/2012 - 04/2016",
-    "coursework": {
-      "activities": [
-        "30/01/2015 | Ballet - 'Apna Bharat Apna Gourav' | Annual Day",
-        "06/12/2014 | The great India Story Conference | ISBF",
-        "05/11/2014 | International Robotics Competition (IRC)",
-        "30/08/2014 | Creative Event | rukmini devi public school",
-        "25/04/2014 | Green-o-tisement | Delhi public school",
-        "28/01/2014 | Ballet - 'Jai janani, jai Bharati' | Annual Day",
-        "2013-2014 | Ballet - 'Sabrang-Ek-sang' | Annual Day",
-        "2013-2014 | Inter-house quiz competition",
-        "2013-2014 | Inter-house table tennis tournament",
-        "22/08/2013 | Commercial Art | Mount Carmel School",
-        "12/08/2013 | Street play | maxfort school",
-        "30/07/2013 | Netting the web | Indraprastha international School",
-        "2013 | Rendejuous: vis-a-vis-street Play | Queen's valley school",
-        "2013 | Recycle Raja | Horlicks Wizkids by Krayon",
-        "2013 | Rendejuous: vis-a-vis-street Play | Queen's valley school",
-        "2013 | Recycle Raja | Horlicks Wizkids by Krayon",
-        "30/11/2012 | Math Olympiad | rukmini devi public school",
-        "09/11/2012 | Core5 - Web Desigining | Delhi public School",
-        "2012 | The green olympiad"
-      ],
-      "achievements": [
-        "29/08/2013 | 2nd  | Web Designing | Shree Venkateshwar Internation School",
-        "2013 | 2nd | Digiwitz | Inter school festival"
-      ],
-      "awards": [
-        "2014-2015 | Excellence in Dramatics"
-      ]
-    }
-  }, {
-    "id": 3,
-    "key": "ed3",
-    "institute": "Apollo International School",
-    "url": "http://aischool.in/index.php",
-    "level": "Schooling",
-    "timeline": "04/2011 - 03/2012",
-    "coursework": {
-      "activities": [
-        "Children's preliminary round | The little art Gallery | 15/08/2011",
-        "Art/Declamation competition | Vidya Devi Jindal School | 07/08/2011"
-      ]
-    }
-  }, {
-    "id": 2,
-    "key": "ed2",
-    "institute": "Swarnprastha Public School",
-    "url": "http://www.swarnprastha.com/",
-    "level": "Schooling",
-    "timeline": "04/2010 - 03/2011",
-    "coursework": {
-      "achievements": [
-        "29/8/2010 | 1st | Inter-house group singing competition"
-      ],
-      "activities": [
-        "19/11/2010 | National science olympiad"
-      ]
-    }
-  }, {
     "id": 1,
     "key": "ed1",
-    "institute": "Ganga Iinternational School",
-    "url": "http://www.gangainternationalschool.com/",
-    "level": "Schooling",
-    "timeline": "Initial - 03/2010",
+    "institute": "Benilde St. Margaret's",
+    "url": "#",
+    "level": "High School",
+    "timeline": "08/2010 - 05/2014",
     "coursework": {
       "achievements": [
-        "2009-2010 | 1st | Rakhi making competition",
-        "2009-2010 | 3rd | Inter-house presentation competition",
-        "2009-2010 | 3rd | Poster making competition"
+        "Magna Cum Laude",
+        "Highest Honor Roll (4 years)",
+        "Soccer Academic Award (2 years for highest GPA)",
+        "Soccer State Champion (2011)"
       ],
       "activities": [
-        "30/10/2009 | Science exhibition",
-        "02/03/2009 | Pentasoft quiz",
-        "10/11/2008 | Inter-house hindi group song competition"
+        "Volunteer Corps",
+        "Varsity Soccer, Table Tennis, Track",
+        "Math League",
+        "Environmental Club"
       ]
     }
   }],
