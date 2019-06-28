@@ -134,16 +134,8 @@
 
           <div id="certs" class="hidden">
             <span v-if="render">
-              <span v-if="data.certs">
-                <div class="break-heading">Certifications [{{ data.certs.length }}]</div>
-              </span>
-
-              <span v-if="data.communities">
-                <div class="break-heading">Communities [{{ data.communities.length }}]</div>
-                <div class="small-card-holder">
-                  <smallcard v-for="info in data.communities" v-bind:info="info" v-bind:key="info.key"> </smallcard>
-                </div>
-              </span>
+              <div class="break-heading"> Certifications Completed [{{ data.certs.length }}]</div>
+              <card v-for="info in data.certs" v-bind:info="info" v-bind:key="info.key"></card>
             </span>
           </div>
 
