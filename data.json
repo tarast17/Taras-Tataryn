@@ -127,6 +127,11 @@
       "url": "https://www.linkedin.com/in/tarastataryn/",
       "icon": "fab fa-linkedin-in",
       "label": "linkedin/in/ttataryn"
+    }, {
+      "name": "strava",
+      "url": "https://www.strava.com/athletes/15482393",
+      "icon": "fab fa-strava",
+      "label": "strava/taras"
     }]
   },
   "work": [{
