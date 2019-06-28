@@ -236,8 +236,8 @@
     "about": "4 month long internship in a popular online bank in Indiana. <ul> <li> Participated in info sec risk assessments and meetings related to bank operations </li> <li> Utilized PM software called Jira to restructure new hire process by implementing Role Based Access Control (RBAC) </li> <li> Learned to use PhishMe and leveraged on internal employees writing campaigns and writing up metric reports </li> <li> Provided insight and observations into company's adherence to FFIEC regulations </li> </ul>"
   }],
   "projects": [{
-      "id": 11,
-      "key": "pr11",
+      "id": 5,
+      "key": "pr5",
       "title": "World Cup 2018 Visualization: Chord Diagram ",
       "url": "https://ttataryn.github.io",
       "event": "Hobby/Own Time",
@@ -251,8 +251,8 @@
       ],
       "about": "Project I pursued on my own time due to passion for soccer and development. It provides a visualization of soccer players in the World Cup and which professional leagues around the world they come from. Link: https://ttataryn.github.io"
     }, {
-      "id": 10,
-      "key": "pr10",
+      "id": 4,
+      "key": "pr4",
       "title": "Major-Career Visualization",
       "url": "https://www.depauw.edu/academics/centers/hubbard/careerpathsdetail/",
       "event": "Independent Study - DePauw University",
@@ -264,10 +264,10 @@
         "D3 Javascript",
         "Visualization"
       ],
-      "about": "Dynamic visualization that can be used to map majors to careers at DePauw University. Exemplary for Liberal Arts"
+      "about": "Dynamic visualization that can be used to map majors to careers at DePauw University. Exemplifies Liberal Arts. Link: <a href='https://www.depauw.edu/academics/centers/hubbard/careerpathsdetail/'> DePauw Site </a>"
     }, {
-      "id": 9,
-      "key": "pr9",
+      "id": 3,
+      "key": "pr3",
       "title": "Ethical Analysis of Phishing Research ",
       "url": "https://www.academia.edu/s/2e5ca9034e/ethical-analysis-of-phishing-research",
       "event": "DePauw University - Prindle Institution",
@@ -282,120 +282,31 @@
       "about": "Takes a look at phishing research and whether or not it is conducted in an ethical manner. My paper won a Prindle Prize at DePauw, which is 'Awarded to the best project in Science, Technology, Engineering or Math that has implications for or directly speaks to an issue of ethical concern.'"
     },
     {
-      "id": 8,
-      "key": "pr8",
-      "title": "JTLog",
-      "url": "https://github.com/ramantehlan/JTLog",
-      "productType": "NPM Module/Package",
-      "timeline": "14/06/2018 - 28/08/2018",
-      "tag": [
-        "600+ Downloads/First Month",
-        "Typescript",
-        "NPM",
-        "Console Log"
-      ],
-      "about": "JavascriptTypescriptLog (JTLog) is Log library. <ul><li>Record/Store console logs for a particular session, return it in an array.</li><li>2 Modes for development and production (Won't be visible to users).</li><li>Switch between consoling and recording, or choose both.</li></ul>"
-    },
-    {
-      "id": 7,
-      "key": "pr7",
-      "title": "Finojo",
-      "url": "https://github.com/ramantehlan/Finojo",
-      "event": "Hackathon - HACKRUPT, NSIT, Delhi",
-      "eventUrl": "https://www.hackerearth.com/sprints/hackrupt-18/",
-      "productType": "NPM Module/Package",
-      "timeline": "03/02/2018 - 04/02/2018",
-      "tag": ["Top 10 Finalist", "NodeJS", "IPFS"],
-      "about": "Finojo is a decentralized tracking application of financial assets. It uses IPFS and Blockchain to allow corporate users to store there user files, documents, contracts, records etc on a decentralized network. Each Corporation and the user is provided with a unique finojo code, this code is used as a digital stamp for generating financial assets, later this code can be used to retrieve any file from the decentralized network."
-    },
-    {
-      "id": 6,
-      "key": "pr6",
-      "title": "Spero",
-      "url": "https://github.com/ramantehlan/Spero",
-      "event": "World Virtual Govhack",
-      "eventUrl": "http://hackathon.govtechprize.ae/",
-      "productType": "Decentralized Webapp",
-      "timeline": "12/2017",
-      "tag": [
-        "Blockchain",
-        "Decentralized"
-      ],
-      "about": "Spero is an open source decentralized job marketplace for refugees, asylums, NGOs and governments. we leverage blockchain and artificial intelligence to connected about 65.6 million refugees to jobs around the world. This project was created in December 2017 for the biggest Global Virtual GovHack hackathon organized by UAE Government in 2017."
-    },
-    {
-      "id": 5,
-      "key": "pr5",
-      "title": "Genetic-Tetris-Ai",
-      "url": "https://github.com/ramantehlan/Genetic-Tetris-Ai",
-      "productType": "Webapp",
-      "timeline": "Ongoing",
-      "tag": [
-        "JavaScript",
-        "Genetic Algorithms",
-        "AI"
-      ],
-      "about": "An implementation of Genetic Algorithms to create evolving/mutating AI to play Tetris. Genetic Algorithms follow the principles first laid down by Charles Darwin of 'survival of the fittest.' <ul><li>It uses matrix to create the game of Tetris.</li><li>Multiple speeds and ranking system for gameplay.</li><li>Simple yet beautiful UI / UX with user driven actions.</li></ul>"
-    },
-    {
-      "id": 4,
-      "key": "pr4",
-      "title": "Celer",
-      "url": "https://github.com/ramantehlan/Celer",
-      "event": "Techstars Startup Weekend, Delhi Technological University, Delhi, India",
-      "eventUrl": "http://startupweekend.org/",
-      "productType": "Webapp/Android App",
-      "timeline": "08/09/2017 - 10/09/2017",
-      "tag": [
-        "Grid computing",
-        "API",
-        "Heroku"
-      ],
-      "about": "Celer helps businesses to distribute their processing across the devices connected to the Internet. <ul><li> Web app to get the processing from business users and API for app developers to integrate in there app. </li> <li> API use 20 % -30 % of total available processing power. </li> <li> Web app for app developers to see the processing they provided from there user base and get compensated for it(They are asked to remove ads or make there app freemium if they earn above a certain limit from us.) </li></ul>"
-    },
-    {
-      "id": 3,
-      "key": "pr3",
-      "title": "DataStructures-CPP",
-      "url": "https://github.com/ramantehlan/DataStructures-CPP",
-      "productType": "Terminal Application",
-      "timeline": "Ongoing",
-      "tag": [
-        "C++",
-        "Data Structures",
-        "Algorithms"
-      ],
-      "about": "DataStructures-CPP is an application to implement data structures and algorithms in C++ using a menu-driven interface.<ul><li> Created Source file for all the popular data structures. </li> <li> Neat application structure for beginners and professionals to understand. </li> <li> The program can be easily converted into other programming languages. </li></ul>"
-    },
-    {
       "id": 2,
       "key": "pr2",
-      "title": "Alexandrite",
-      "url": "https://github.com/ramantehlan/Alexandrite",
-      "productType": "Android App",
-      "timeline": "O4/2017",
+      "title": "Transfer Rumor Aggregator",
+      "url": "https://github.com/ttataryn/transferAggregator",
+      "productType": "",
+      "timeline": "02/2018-05/2018",
       "tag": [
-        "Java",
-        "Android",
-        "File System"
+        "Selected to Present",
+        "Soccer",
+        "Python NLTK/NER",
+        "Web Application"
       ],
-      "about": "Alexandrite is an android app, which saves data on a device, whether it's temporary files, downloaded app assets, user media, structured data, or something else .<ul><li> Worked on data storage provided by a device on Android. </li> <li> Automated multiple processes. </li> <li> Beautiful UI / UX with a smooth design. </li></ul>"
+      "about": "Senior seminar project, which data mined using Twitter and collected soccer transfer rumors. Transfer rumors are specifically collected using NER with Python's NLTK package and transferred to a website hosted using Flask and HTML/CSS. The site also includes graphs, visualizations, and reporter statistics."
     },
     {
       "id": 1,
       "key": "pr1",
-      "title": "Optimus",
-      "url": "https://github.com/ramantehlan/Optimus",
-      "event": "AbinBev Hackathon, Bengaluru, India",
-      "eventUrl": "http://www.hackathon.io/abinbev-hacktheworld-bangalore/schedules",
-      "productType": "Webapp",
-      "timeline": "03/02/2017 - 05/02/2017",
-      "tag": [
-        "Artificial Intelligence",
-        "Data Visualization",
-        "Image Processing"
-      ],
-      "about": "Optimus helps businesses visualise their data and get better insights into the factors which are driving sales. <ul >  <li> Platform to collect data from all over the world to process in real time. </li> <li > Focused on key factors like when to advertise more, which brand need more focused or which item to produce more and when. </li> <li > Great visualization tools for all the data. </li></ul>"
+      "title": "Student Flash Poll",
+      "url": "https://github.com/ttataryn/Flash-Poll",
+      "event": "",
+      "eventUrl": "",
+      "productType": "",
+      "timeline": "09/2017-12/2017",
+      "tag": ["Sent to students", "Firebase", "HTML/CSS"],
+      "about": "Using Firebase, Javascript and HTML to design and implement a web-based, database-backed software that will be used to deliver flash-polls to support student success. The flash-poll was successfully deployed at the end of the year using the school's e-services platform where it reached a majority of the student body."
     }
   ],
   "trainings": [{
@@ -524,7 +435,7 @@
   }, {
     "id": 1,
     "key": "ed1",
-    "institute": "Benilde St. Margaret's",
+    "institute": "Benilde St. Margarets",
     "url": "#",
     "level": "High School",
     "timeline": "08/2010 - 05/2014",
@@ -546,10 +457,10 @@
   "courses": [{
     "id": 5,
     "key": "co5",
-    "title": "Divide and Conquer, Sorting and Searching, and Randomized Algorithms",
+    "title": "Information Security Fundamentals",
     "url": "https://www.coursera.org/learn/algorithms-divide-conquer",
-    "from": "Coursera - Stanford University",
-    "timeline": "Ongoing",
+    "from": "Udemy",
+    "timeline": "Complete",
     "about": "",
     "complete": true
   }, {
@@ -807,6 +718,9 @@
         "percent": "20"
       }, {
         "name": "Simulations/Exercises",
+        "percent": "20"
+      }, {
+        "name": "Automation",
         "percent": "20"
       }],
       "4": [{
