@@ -249,7 +249,7 @@
         "Sankey Diagram",
         "Visualization"
       ],
-      "about": "Project I pursued on my own time due to passion for soccer and development. It provides a visualization of soccer players in the World Cup and which professional leagues around the world they come from. Link: https://ttataryn.github.io"
+      "about": "Project I pursued on my own time due to passion for soccer and development. It provides a visualization of soccer players in the World Cup and which professional leagues around the world they come from. Link: <a href='https://ttataryn.github.io'> <b> Site </b> </a>"
     }, {
       "id": 4,
       "key": "pr4",
@@ -294,7 +294,7 @@
         "Python NLTK/NER",
         "Web Application"
       ],
-      "about": "Senior seminar project, which data mined using Twitter and collected soccer transfer rumors. Transfer rumors are specifically collected using NER with Python's NLTK package and transferred to a website hosted using Flask and HTML/CSS. The site also includes graphs, visualizations, and reporter statistics."
+      "about": "Senior seminar project, which data mined using Twitter and collected soccer transfer rumors. Transfer rumors are specifically collected using NER with Python's NLTK package and transferred to a website hosted using Flask and HTML/CSS. The site also includes graphs, visualizations, and reporter statistics. <a href='https://github.com/ttataryn/transferAggregator'> <b> GitHub link </b> </a>"
     },
     {
       "id": 1,
@@ -306,7 +306,7 @@
       "productType": "",
       "timeline": "09/2017-12/2017",
       "tag": ["Sent to students", "Firebase", "HTML/CSS"],
-      "about": "Using Firebase, Javascript and HTML to design and implement a web-based, database-backed software that will be used to deliver flash-polls to support student success. The flash-poll was successfully deployed at the end of the year using the school's e-services platform where it reached a majority of the student body."
+      "about": "Using Firebase, Javascript and HTML to design and implement a web-based, database-backed software that will be used to deliver flash-polls to support student success. The flash-poll was successfully deployed at the end of the year using the school's e-services platform where it reached a majority of the student body. <a href='https://github.com/ttataryn/Flash-Poll'> <b> GitHub link </b></a>"
     }
   ],
   "trainings": [{
