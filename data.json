@@ -135,9 +135,29 @@
     }]
   },
   "work": [{
+    "id": 7,
+    "key": "wo7",
+    "companyName": "Optum - Security Operations Cente - Cybersecurity Analyst",
+    "companyUrl": "https://www.optum.com/",
+    "role": "Cybersecurity Cybersecurity Analyst",
+    "location": "Chaska, Minnesota",
+    "timeline": "07/2019 - Present",
+    "tag": [
+      "FireEye Platforms",
+      "Arcsight", 
+      "RSA Netwitness",
+      "Threat Research/Intelligence",
+      "Cyber Investigations/Triage",
+      "Malware Analysis",
+      "Purple Team Exercise",
+      "Automation"
+    ],
+    "about": "After coming in from ground-zero, I took on a senior-level role in the SOC from an investigations and team standpoint. I worked on the following: <li> Training in new team members on corresponding tools, software, and processes </li> <li> Threat intelligence analysis and working with our intel team to correlate malicious events to adversaries and malware as well as tailoring to global/overseas entities </li> <li> Automation projects including a platform to alert and monitor IOCs in our environment and several different scripts to assist with handling of alerts in the SIEM </li> Leading incident response on security investigations and engagements </li> <li> Conducting root cause, malware, and forensic analysis </li> <li> Spearhead Purple Team exercise from the Blue Team perspective including training objectives, outcomes, and a script for anti-sandbox evasion </li>  "
+  },
+    {
     "id": 6,
     "key": "wo6",
-    "companyName": "Optum - Security Operations Center",
+    "companyName": "Optum - Security Operations Center - Associate Analyst",
     "companyUrl": "https://www.optum.com/",
     "role": "Associate Cybersecurity Analyst",
     "location": "Chaska, Minnesota",
@@ -153,7 +173,7 @@
   }, {
     "id": 5,
     "key": "wo5",
-    "companyName": "Optum - Business Information Security Office",
+    "companyName": "Optum - Business Information Security Office - Security Analyst",
     "companyUrl": "https://www.optum.com/",
     "role": "Security Analyst",
     "location": "Plymouth, Minnesota",
@@ -169,7 +189,7 @@
   }, {
     "id": 4,
     "key": "wo4",
-    "companyName": "DePauw University - Computer Science Department",
+    "companyName": "DePauw University - Computer Science Department - Security Research Intern",
     "companyUrl": "https://depauw.edu",
     "role": "Security Research Intern",
     "location": "Greencastle, Indiana",
